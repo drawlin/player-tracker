@@ -1,0 +1,3 @@
+name: player-tracker
+main: me.drawlin.tracker.TrackerPlugin
+version: ${version}
